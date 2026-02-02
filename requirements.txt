@@ -1,0 +1,16 @@
+# Azure Cost Management API - Python Dependencies
+
+# Azure Authentication
+azure-identity>=1.15.0
+
+# HTTP Requests
+requests>=2.31.0
+
+# Data Processing
+pandas>=2.0.0
+
+# Visualization
+matplotlib>=3.7.0
+
+# Environment Variables
+python-dotenv>=1.0.0
